@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inlömmning del 4", "inlömmning del 4\inlömmning del 4.csproj", "{E003FF84-D5A7-4695-A2CE-68A3B5E37EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E003FF84-D5A7-4695-A2CE-68A3B5E37EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E003FF84-D5A7-4695-A2CE-68A3B5E37EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E003FF84-D5A7-4695-A2CE-68A3B5E37EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E003FF84-D5A7-4695-A2CE-68A3B5E37EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71A42C23-E209-4205-9C98-218985AB3243}
+	EndGlobalSection
+EndGlobal
